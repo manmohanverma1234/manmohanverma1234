@@ -1,4 +1,4 @@
-![logo](https://github.com/manmohanverma1234/manmohanverma1234/blob/main/4142231.webp)
+
 <h1 align="center">Hi 👋, I'm Manmohan verma</h1>
 <h3 align="center">A passionate FPGA Engineer from India</h3>
 <img align="right"alt="coding"width="400"src="https://www.bing.com/th/id/OGC.ba6d7d37fa1e4ca966ac7328bf43b96c?pid=1.7&rurl=https%3a%2f%2fmedia1.tenor.com%2fimages%2fba6d7d37fa1e4ca966ac7328bf43b96c%2ftenor.gif%3fitemid%3d18657810&ehk=DmXE8Yduzl91Dm6wYvTySRQQL2nfJTveMexBE%2bI3wUI%3d">
