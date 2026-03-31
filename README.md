@@ -1,12 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on ASIC Design verification<br>👯 I’m looking to collaborate on verification<br>🤝 I’m looking for help with to uderstanding Physical design<br>🌱 I have learnt System Verilog ,C <br> 🌲I am currently learning UVM <br> 🌹I have knowledge about FPGA implementation<br>💬 Ask me about  digital design<br>⚡ Fun fact I am lazy but smart
+🔭 I’m currently working on ASIC Design verification<br>👯 I’m looking to collaborate on verification<br>🤝 I’m looking for help with to uderstanding Physical design<br>🌱 I have learnt System Verilog ,C <br> 🌲I am currently learning UVM <br> 🌹I have knowledge about FPGA implementation<br>💬 Ask me about  digital design and Verification <br>⚡ Fun fact I am lazy but smart
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manmohan-verma-712477222/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@MANMOHA36896780) 
 <a href="http://manmohanverma912@gmail.com/" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1657906383gmail-icon-png.png" alt="manmohanverma912@gmail.com" height="60" width="60" /></a>
-<a href="https://instagram.com/_m_ann_u_" target="blank"><img align="center" src="https://camo.githubusercontent.com/9506780a212223d7f1ef3ef1301965f1e3539e231b7a8fc80ded8b29418b35d8/68747470733a2f2f692e696d6775722e636f6d2f424b4d3172316e2e706e67" alt="_m_ann_u_" height="75" width="75" /></a>
-
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="c" width="60" height="60"/> </a> 
