@@ -11,7 +11,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="python" width="60" height="60"/> </a> 
 <a href="https://www.verilog.com" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1498729805625188352/cyIH6Vb7_400x400.jpg" alt="Verilog" width="70" height="70"/> </a>
 <a href="https://www.xilinx.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1MueuGCVqqTMVlXMvrxS04cyljzFESLxL33NgKKP50Pyh-OuHtWSvfWKis2BA46VPSqc&usqp=CAU" alt="xilinx" width="60" height="60"/> </a>
-<a href="https://www.office.com" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixlok.com%2Fimages%2Fmicrosoft-office-logo-png-image-free-download%2F&psig=AOvVaw2T8JeodybOmra3HyHVfJrs&ust=1698977617787000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiJu_2epIIDFQAAAAAdAAAAABAJ" alt="MS Office" width="60" height="60"/> </a> 
+<a href="https://www.office.com" target="_blank" rel="noreferrer"> <img src="D:\New folder (2)\Downloads\Microsoft-Office.webp" alt="MS Office" width="60" height="60"/> </a> 
 </p>
 <br>
 
