@@ -5,14 +5,17 @@
 - 🔹 Writing testbenches and exploring verification flows
 - 🔹 Debugging waveforms and finding corner-case bugs
 - 🔹 Learning industry-standard methodologies like UVM
+
 🌱 Right now, I’m sharpening my skills in:
 
 - ✔️ SystemVerilog & Assertions (SVA)
 - ✔️ UVM (building reusable verification environments)
 - ✔️ Protocol-based verification (AXI/APB)
- <br> 🎯 My goal is simple:
+ <br>
+🎯 My goal is simple:
 
-«Become a highly skilled DV engineer who doesn’t just verify designs — but breaks them intelligently to make them stronger 💥» <br> 🤝 I’m always open to collaborating on:
+«Become a highly skilled DV engineer who doesn’t just verify designs — but breaks them intelligently to make them stronger 💥» <br> 
+🤝 I’m always open to collaborating on:
 
 - Verification projects
 - RTL + Testbench integration
