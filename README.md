@@ -1,5 +1,24 @@
 # 💫 About Me:
-🔭 I’m currently working on ASIC Design verification<br>👯 I’m looking to collaborate on verification<br>🤝 I’m looking for help with to uderstanding Physical design<br>🌱 I have learnt System Verilog ,C <br> 🌲I am currently learning UVM <br> 🌹I have knowledge about FPGA implementation<br>💬 Ask me about  digital design and Verification <br>⚡ Fun fact I am lazy but smart
+🔭 Hi there! 👋 I'm Manmohan Verma, an aspiring Design Verification Engineer with a strong foundation in digital design and a growing passion for building reliable and efficient hardware systems.<br>🚀 Currently, I’m diving deep into the world of ASIC Design & Verification, where I focus on understanding how designs behave beyond just functionality — ensuring they are robust, scalable, and bug-free.<br>💡 I enjoy working on:
+
+- 🔹 RTL Design using Verilog/SystemVerilog
+- 🔹 Writing testbenches and exploring verification flows
+- 🔹 Debugging waveforms and finding corner-case bugs
+- 🔹 Learning industry-standard methodologies like UVM
+🌱 Right now, I’m sharpening my skills in:
+
+- ✔️ SystemVerilog & Assertions (SVA)
+- ✔️ UVM (building reusable verification environments)
+- ✔️ Protocol-based verification (AXI/APB)
+ <br> 🎯 My goal is simple:
+
+«Become a highly skilled DV engineer who doesn’t just verify designs — but breaks them intelligently to make them stronger 💥» <br> 🤝 I’m always open to collaborating on:
+
+- Verification projects
+- RTL + Testbench integration
+- Learning-based open-source contributions
+<br>💬 Feel free to connect or ask me anything about digital design & verification — always happy to discuss and learn together!
+ <br>⚡ Fun fact: I might be a bit lazy sometimes… but when it comes to debugging, I don’t stop until I find the bug 😄
 
 
 ## 🌐 Socials:
