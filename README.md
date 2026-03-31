@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ASIC Design verification<br>👯 I’m looking to collaborate on verification<br>🤝 I’m looking for help with to uderstanding Physical design<br>🌱 I have learnt System Verilog ,C and currently learning UVM <br> I have knowledge about FPGA implementation<br>💬 Ask me about  digital design<br>⚡ Fun fact I am lazy but smart
+🔭 I’m currently working on ASIC Design verification<br>👯 I’m looking to collaborate on verification<br>🤝 I’m looking for help with to uderstanding Physical design<br>🌱 I have learnt System Verilog ,C <br> 🌲I am currently learning UVM <br> 🌹I have knowledge about FPGA implementation<br>💬 Ask me about  digital design<br>⚡ Fun fact I am lazy but smart
 
 
 ## 🌐 Socials:
