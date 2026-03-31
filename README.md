@@ -15,6 +15,7 @@
 🎯 My goal is simple:
 
 «Become a highly skilled DV engineer who doesn’t just verify designs — but breaks them intelligently to make them stronger 💥» <br> 
+
 🤝 I’m always open to collaborating on:
 
 - Verification projects
